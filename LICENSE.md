@@ -7,6 +7,8 @@ The rules are:
  * Always required, no exceptions.
  * 1-3 lines minimum in the main configuration file or folder.
  * Must be visible and readable, NOT hidden.
+ * The crediting must be public and NOT hidden even if the line threshold has not been passed.
+ * The crediting must be put somewhere in a webpage or anywhere public.
 
 2. Sharing
  * Always encouraged but not always required.
