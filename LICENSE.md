@@ -1,5 +1,5 @@
 BGPL - Better GNU General Public License.
-BGPL is an open-source license that prioritizes credit over sharing.
+BGPL is a source-available license that prioritizes credit over sharing.
 The rules for BGPL are specific and cannot be changed.
 The rules are:
 
